@@ -1,1 +1,12 @@
-test send from local repo to github aaaa
+Khach hang 1: 
+Name: Nguyen Huu Van
+ID: 12345678
+Vehical's Name: Ferrari
+Vehical's type: Automobile
+
+Khach hang 2: 
+Name: Tran Huu Phuoc
+ID: 24220023
+Vehical's Name: Future
+Vehical's type: MotobikePhuoc dep zai pro
+hehehehe
